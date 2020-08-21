@@ -24,7 +24,8 @@ This is **Debugging Configuration** to debug React app with VSCode.
 1. Pick a **'Launch with Chrome'** config from the dropdown on the Debug pane on the side of VSCode.
     > If you're using **Debugger for Microsoft Edge**, select **'Launch with Edge'**.
 2. Press the play button or <kbd>F5</kbd> key to start debugging.
-2. Set breakpoints in any of the files.
+3. Set breakpoints in any of the files.
+    > You could do this step before first step.
 
 Note: You can learn more about VSCode debugger within the [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging).
 
