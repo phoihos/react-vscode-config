@@ -14,7 +14,7 @@
         },
         {
             "name": "Launch with Edge",
-            "type": "edge",
+            "type": "msedge",
             "request": "launch",
             "url": "http://localhost:3000",
             "webRoot": "${workspaceFolder}/src",
